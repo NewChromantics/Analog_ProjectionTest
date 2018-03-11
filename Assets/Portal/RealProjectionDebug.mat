@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RealProjectionDebug
+  m_Shader: {fileID: 4800000, guid: 5615c8cf75e5ee749ae8b1b548b70ce5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: .5
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _EmissionScaleUI
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: FrustumCount
+        second: 5
+      data:
+        first:
+          name: ColourScalar
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _CameraPosition
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _EmissionColorUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: Frustum00
+        second: {r: -.17693004, g: -.0412995592, b: .983356595, a: 1.85246444}
+      data:
+        first:
+          name: Frustum01
+        second: {r: -.50953263, g: -.0714996755, b: -.857475579, a: -.0633618981}
+      data:
+        first:
+          name: Frustum02
+        second: {r: -.358254015, g: .932314515, b: .0494342856, a: -.718093276}
+      data:
+        first:
+          name: Frustum03
+        second: {r: -.0455098338, g: -.998660862, b: .0246064626, a: 1.77040839}
+      data:
+        first:
+          name: Frustum10
+        second: {r: -.375173569, g: -.0938975289, b: .922186494, a: .0905998126}
+      data:
+        first:
+          name: Frustum11
+        second: {r: -.4402273, g: -.10729146, b: -.891452968, a: 2.18623137}
+      data:
+        first:
+          name: Frustum12
+        second: {r: -.476334155, g: .879200578, b: .0105927745, a: -.720461845}
+      data:
+        first:
+          name: Frustum13
+        second: {r: -.012798504, g: -.999887347, b: .00784331467, a: 2.08625937}
+      data:
+        first:
+          name: Frustum20
+        second: {r: .864499509, g: -.103134789, b: .491938949, a: 1.22962296}
+      data:
+        first:
+          name: Frustum21
+        second: {r: -.919795692, g: -.101425752, b: .3790631, a: .629005432}
+      data:
+        first:
+          name: Frustum22
+        second: {r: -.0297166351, g: .875116885, b: .482998312, a: -1.03030455}
+      data:
+        first:
+          name: Frustum23
+        second: {r: -.00377173861, g: -.999002516, b: .0444962978, a: 2.15592384}
+      data:
+        first:
+          name: Frustum30
+        second: {r: .566527426, g: -.0574283302, b: -.822039306, a: 2.02996445}
+      data:
+        first:
+          name: Frustum31
+        second: {r: .207135051, g: -.0614774115, b: .976378798, a: .160619691}
+      data:
+        first:
+          name: Frustum32
+        second: {r: .372035176, g: .92506659, b: .0764295608, a: -.660461068}
+      data:
+        first:
+          name: Frustum33
+        second: {r: .08894407, g: -.995915413, b: .015532108, a: 1.96569932}
+      data:
+        first:
+          name: Frustum40
+        second: {r: .32093972, g: -.00383480568, b: -.947091818, a: .628258407}
+      data:
+        first:
+          name: Frustum41
+        second: {r: .434899718, g: -.0515663326, b: .899001181, a: 1.79936373}
+      data:
+        first:
+          name: Frustum42
+        second: {r: .296416998, g: .955037177, b: .00639501307, a: -.37585336}
+      data:
+        first:
+          name: Frustum43
+        second: {r: .151380971, g: -.987859786, b: -.0348863751, a: 1.81410098}
+      data:
+        first:
+          name: Frustum50
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum51
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum52
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum53
+        second: {r: 0, g: 0, b: 0, a: 0}

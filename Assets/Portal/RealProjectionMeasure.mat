@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RealProjectionMeasure
+  m_Shader: {fileID: 4800000, guid: 13073a550e0434f1fa1704a3c9ddca08, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: FrustumCount
+        second: 5
+      data:
+        first:
+          name: ColourScalar
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _CameraPosition
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum00
+        second: {r: -.53316921, g: -.0322638713, b: .845393181, a: 1.83809578}
+      data:
+        first:
+          name: Frustum01
+        second: {r: -.153899804, g: -.0562220365, b: -.9864856, a: -.0851640552}
+      data:
+        first:
+          name: Frustum02
+        second: {r: -.319435984, g: .944351912, b: -.0784861818, a: -.735952556}
+      data:
+        first:
+          name: Frustum03
+        second: {r: -.0846846253, g: -.996397614, b: -.00450164452, a: 1.76699281}
+      data:
+        first:
+          name: Frustum10
+        second: {r: -.695778191, g: -.0781114325, b: .713996649, a: .0662824884}
+      data:
+        first:
+          name: Frustum11
+        second: {r: -.0781515837, g: -.0945015028, b: -.992452443, a: 2.16814995}
+      data:
+        first:
+          name: Frustum12
+        second: {r: -.41611734, g: .895265043, b: -.159206927, a: -.744254351}
+      data:
+        first:
+          name: Frustum13
+        second: {r: -.048138123, g: -.998810053, b: -.00782965217, a: 2.08461857}
+      data:
+        first:
+          name: Frustum20
+        second: {r: .613788724, g: -.131715328, b: .77840507, a: 1.27150059}
+      data:
+        first:
+          name: Frustum21
+        second: {r: -.997645319, g: -.0682674721, b: .0065841875, a: .579472601}
+      data:
+        first:
+          name: Frustum22
+        second: {r: -.179018512, g: .877019942, b: .445856869, a: -1.03357172}
+      data:
+        first:
+          name: Frustum23
+        second: {r: -.0534520037, g: -.998133242, b: .0295469109, a: 2.15455508}
+      data:
+        first:
+          name: Frustum30
+        second: {r: .830622971, g: -.0794877112, b: -.551132679, a: 2.0634768}
+      data:
+        first:
+          name: Frustum31
+        second: {r: -.175274894, g: -.0658096224, b: .982317567, a: .166073814}
+      data:
+        first:
+          name: Frustum32
+        second: {r: .347067863, g: .911783457, b: .219533309, a: -.640811861}
+      data:
+        first:
+          name: Frustum33
+        second: {r: .0434149206, g: -.998357415, b: .0373840146, a: 1.96926785}
+      data:
+        first:
+          name: Frustum40
+        second: {r: .651570082, g: -.0177471209, b: -.75838083, a: .649818718}
+      data:
+        first:
+          name: Frustum41
+        second: {r: .0650931448, g: -.0640522242, b: .995821357, a: 1.81698203}
+      data:
+        first:
+          name: Frustum42
+        second: {r: .304178625, g: .944162786, b: .126617894, a: -.359704643}
+      data:
+        first:
+          name: Frustum43
+        second: {r: .120409258, g: -.992624879, b: .0140539985, a: 1.8211633}
+      data:
+        first:
+          name: Frustum50
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum51
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum52
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: Frustum53
+        second: {r: 0, g: 0, b: 0, a: 0}

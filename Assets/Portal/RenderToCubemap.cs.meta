@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 683aa0d46abbe4bafadce123250d9761
+timeCreated: 1464820720
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ParentPosition: {instanceID: 0}
+  - CameraTop: {instanceID: 0}
+  - CameraBottom: {instanceID: 0}
+  - CameraLeft: {instanceID: 0}
+  - CameraRight: {instanceID: 0}
+  - CameraFront: {instanceID: 0}
+  - CameraBack: {instanceID: 0}
+  - TextureTop: {fileID: 8400000, guid: 974bd00e5b1b544d59a1c6cfb66f431d, type: 2}
+  - TextureBottom: {fileID: 8400000, guid: b24fe593ab0d34e6eae38e66a3366d34, type: 2}
+  - TextureLeft: {fileID: 8400000, guid: 486e8ebf3670949108836c9b3cc9290f, type: 2}
+  - TextureRight: {fileID: 8400000, guid: e06fb67c1a367457dbca4eaa9e6fd4dc, type: 2}
+  - TextureFront: {fileID: 8400000, guid: e0a5919831d5c4f06b9143452f8b67c4, type: 2}
+  - TextureBack: {fileID: 8400000, guid: e87910555ffd641d197e286c79953fc7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
